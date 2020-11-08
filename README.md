@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi my name is jooyoung 👋
 
 <!--
 **joo01029/joo01029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
